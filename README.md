@@ -1,16 +1,16 @@
-# Black Boys Code - Pokémon card component
+# Black Boys Code - Pokémon HTML Challenges
 
 ![Design preview for the Pokémon card component coding challenge](/designs/desktop-preview.png)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out these front-end coding challenges.
 
 [Black Boys Code](https://www.blackboyscode.com) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**To do these challenges, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## The challenges
 
 Your challenge is to build out this Pokémon card component and get it looking as close to the design as possible.
 
