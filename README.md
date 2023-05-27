@@ -1,28 +1,30 @@
 # Black Boys Code - Pokémon HTML Challenges
 
-![Design preview for the Pokémon card component coding challenge](/designs/desktop-preview.png)
+![Design preview for the Pokémon card component coding challenge](/designs/desktop-design.jpeg)
 
 ## Welcome! 👋
 
 Thanks for checking out these front-end coding challenges.
 
-[Black Boys Code](https://www.blackboyscode.com) challenges help you improve your coding skills by building realistic projects.
+[Blackboyscode](https://www.blackboyscode.com) challenges help you improve your coding skills by building realistic projects.
 
-**To do these challenges, you need a basic understanding of HTML and CSS.**
+**To do these challenges, you don't need a basic understanding of HTML and CSS.**
 
 ## The challenges
 
-Your challenge is to build out this Pokémon card component and get it looking as close to the design as possible.
+Your challenge is to build out this Pokédex component and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
+There is also a `challenges.md` file containing the steps you'll need to follow to complete the workshop.
+
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Your task is to build out the project to the designs inside the `/designs` folder. You will find both a mobile and a desktop version of the design. 
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+You will find all the required assets in the `/assets/img/` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
@@ -39,19 +41,11 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+As mentioned above, there are many ways to host your project for free. Our recommend host is [GitHub Pages](https://pages.github.com/)
 
 ## Create a custom `README.md`
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+We strongly recommend overwriting this `README.md` with a custom one. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit this file as much as you like.
 
 ## Submitting your solution
 
@@ -69,8 +63,6 @@ The more specific you are with your questions the more likely it is that another
 
 ## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email instructor.yow[at]blackboyscode[dot]com.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email instructor[dot]yow[at]blackboyscode[dot]com.
 
 **Have fun building!** 🚀
